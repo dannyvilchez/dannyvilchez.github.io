@@ -1,0 +1,75 @@
+baseURL = 'https://dannyvilchez.github.io/'
+languageCode = 'en-us'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "A Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Yooo!'
+homeIntroContent = """
+I am a self-taught Data Engineer who likes building cool stuff. 
+I like to mess around with open source tools and turn random ideas into half-working side projects.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '006-01-02'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = false
+showCurrentPage = false
+home = "Home"
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/vilchezdanny/"
+
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@user"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/codedannyv"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'

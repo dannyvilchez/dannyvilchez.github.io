@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hey, I’m Danny — a self-taught Data Engineer who builds cool (and occasionally functional) things. I&amp;rsquo;ve worked mostly with data systems in finance and insurance, but my real joy comes from tinkering with open source tools, chasing odd ideas, and turning them into side projects that I&amp;rsquo;m 99% sure I’ll finish eventually.&lt;/p&gt;&#xA;&lt;p&gt;Outside of code, you’ll find me running, lifting, strumming guitars, or trying to convince myself that picking up a fifth language is a good idea.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
