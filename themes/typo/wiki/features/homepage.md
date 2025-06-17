@@ -21,7 +21,7 @@ By setting those two parameters in your `hugo.toml` config you can control the t
 homeIntroTitle = 'Hi!'
 
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems. 
+I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
 I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
 """
 ```
@@ -43,6 +43,7 @@ url = "https://medium.com/@user"
 ```
 
 If some icons are missing, feel free to open a request or a PR.
+
 ## Display a Collection
 
 You can decide to include a collection in your homepage:
