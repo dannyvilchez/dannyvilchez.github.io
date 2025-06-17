@@ -2,7 +2,7 @@ Hey, I’m Danny and this blog is where I dump my thoughts, code experiments, si
 
 It’s built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
 
-I work finance and insurance data systems by day, so this site reflects what I do by night:  
+I work with finance and insurance data systems by day, so this site reflects what I do by night:  
 Spin up side projects I _swear_ I’ll finish. Eventually.
 
 ## Tech Stack
