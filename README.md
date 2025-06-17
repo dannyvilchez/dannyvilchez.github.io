@@ -1,16 +1,16 @@
-Hey, I’m Danny and this blog is where I dump my thoughts, code experiments, side quests, and tech rabbit holes. 
+Hey, I’m Danny and this blog is where I dump my thoughts, code experiments, side quests, and tech rabbit holes.
 
 It’s built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
 
-I work mostly in finance and insurance data systems by day, so this site reflects what I do by night:  
-Spin up side projects I *swear* I’ll finish. Eventually.
+I work finance and insurance data systems by day, so this site reflects what I do by night:  
+Spin up side projects I _swear_ I’ll finish. Eventually.
 
 ## Tech Stack
 
-- **Static Site Generator**: [Hugo](https://gohugo.io/)  
-- **Hosting**: GitHub Pages  
-- **Theme**: [Typo](https://github.com/tomfran/typo)  
-- **CI/CD**: GitHub Actions for auto-deploys  
+- **Static Site Generator**: [Hugo](https://gohugo.io/)
+- **Hosting**: GitHub Pages
+- **Theme**: [Typo](https://github.com/tomfran/typo)
+- **CI/CD**: GitHub Actions for auto-deploys
 
 ## Local Development
 
@@ -47,5 +47,7 @@ hugo.toml      # Site settings, SEO bits, and lies I tell myself
 
 This blog is one of many side quests.  
 If it looks like I know what I’m doing — trust me, I’m just good at Googling.
+
+```
 
 ```
