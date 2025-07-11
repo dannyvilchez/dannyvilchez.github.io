@@ -1,8 +1,8 @@
 ---
 title: "What type of developer do I want to be?"
 date: "2025-07-11"
-summary: "test"
-description: "description"
+summary: "A reflection on resisting the pressure to maximize output"
+description: "A reflection on resisting the pressure to maximize output"
 toc: false
 readTime: true
 autonumber: false
