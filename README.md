@@ -1,9 +1,12 @@
-Hey, I’m Danny and this blog is where I dump my thoughts, code experiments, side quests, and tech rabbit holes.
+Hey, I’m Danny and this blog is where I dump my thoughts, code experiments, and side quests.
 
 It’s built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
 
-I work with finance and insurance data systems by day, so this site reflects what I do by night:  
-Spin up side projects I _swear_ I’ll finish. Eventually.
+I work with finance and insurance data systems by day, so this site reflects what I do outside of my 9-5.
+
+This blog is one of many side quests.
+
+If it looks like I know what I’m doing, I don't, I’m just good at Googling.
 
 ## Tech Stack
 
@@ -29,8 +32,7 @@ Then head to `http://localhost:1313` in your browser.
 
 ## Deployment
 
-This blog deploys automatically via GitHub Actions every time I push to `main`.  
-If that ever breaks, future me will fix it. Probably.
+This blog deploys automatically via GitHub Actions every time I push to `main`.
 
 ## Structure
 
@@ -41,13 +43,4 @@ Here's a quick tour for the curious:
 📁 static/        # Static files like images or custom JS
 📁 themes/        # Theme files
 hugo.toml      # Site settings, SEO bits, and lies I tell myself
-```
-
----
-
-This blog is one of many side quests.  
-If it looks like I know what I’m doing — trust me, I’m just good at Googling.
-
-```
-
 ```
