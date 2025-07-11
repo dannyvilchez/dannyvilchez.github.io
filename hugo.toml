@@ -10,7 +10,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "A Blog about Data Engineer and Existentialism"
 
 # Appearance settings
 theme = 'auto'
@@ -18,10 +18,9 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Yo!'
+homeIntroTitle = 'Hey.'
 homeIntroContent = """
-I am a self-taught Data Engineer who likes building cool stuff. 
-I like to mess around with open source tools and turn random ideas into half-working side projects.
+I'm a self-taught data engineer obcessed with building projects and overthinking the human condition
 """
 
 # Collection to display on home
@@ -50,7 +49,7 @@ url = "https://www.linkedin.com/in/vilchezdanny/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/codedannyv"
+url = "https://github.com/dannyvilchez"
 
 # Main menu pages
 [[params.menu]]
