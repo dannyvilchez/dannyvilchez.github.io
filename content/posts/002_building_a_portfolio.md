@@ -59,4 +59,4 @@ Not going to lie, it feels scary to take on this project and specially while doi
 
 But as the great Sam Reich always says,
 
-    "The only way to learn is by playing. The only way to win is by learning. And the only way to begin is by beginning."
+_"The only way to learn is by playing. The only way to win is by learning. And the only way to begin is by beginning."_
