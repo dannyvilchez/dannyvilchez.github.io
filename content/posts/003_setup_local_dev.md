@@ -7,7 +7,7 @@ toc: true
 readTime: true
 autonumber: false
 math: false
-tags: ["postfolio", "postgres", "SQL", "python"]
+tags: ["portfolio", "postgres", "SQL", "python"]
 showTags: true
 draft: false
 ---
