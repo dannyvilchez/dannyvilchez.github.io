@@ -63,7 +63,7 @@ For the weightlifting portion of the system, here’s a quick overview of the ke
 
 **Session Model:**
 
-![data model for activities](activity-model.png)
+![data model for activities](/images/activity-model.png)
 
 ## **What’s Next**
 
